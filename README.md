@@ -12,10 +12,6 @@ Whether you're looking for a fun distraction or a thought-provoking critique of 
 
 ---
 
-## **Stimulation Clicker Game Preview**  
-![Game Preview](#) *(Add a screenshot or GIF of the game here)*  
-
----
 
 ## **How to Play**  
 
@@ -33,10 +29,6 @@ After navigating through the chaos, unlock the final upgrade **"Go to the Ocean"
 
 ---
 
-## **Watch Gameplay**  
-[Watch Gameplay Video Here](#) *(Insert link to a gameplay video or demo)*  
-
----
 
 ## **Features of Stimulation Clicker**  
 
@@ -102,12 +94,6 @@ Yes, **Stimulation Clicker** is completely free to play.
 
 ---
 
-## **How to Access Stimulation Clicker**  
-
-Play **Stimulation Clicker** directly in your browser:  
-[**Play Now**](#) *(Insert the link to the game)*  
-
----
 ## Getting Started
 
 First, run the development server:
