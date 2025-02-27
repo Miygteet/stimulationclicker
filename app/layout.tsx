@@ -6,7 +6,7 @@ import Footer from '../components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Stimulation Clicker - The Ultimate Clicker Game Experience',
+  title: 'octodoodle',
   description: 'Dive into the chaotic world of Stimulation Clicker, a satirical online clicker game that mirrors the overstimulation of modern internet life. Click, upgrade, and experience digital overload!',
   icons: {
     icon: [
